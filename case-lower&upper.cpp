@@ -6,6 +6,11 @@ int main() {
     cout << "enter char : ";  
     cin >> ch;  
 
+    
+//if (ch >= 65 && ch <= 90) {  
+//     cout << "uppercase\n";  
+// }
+    
     if (ch >= 'a' && ch <= 'z') {  
         cout << "lowercase\n";  
     } else {  
