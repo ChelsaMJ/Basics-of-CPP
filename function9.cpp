@@ -15,5 +15,6 @@ int sumOfDigits(int num) {
 }  
 
 int main() {  
+    cout << "sum = " << sumOfDigits(2356) << endl;
     return 0;  
 }
